@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
 <script>
 var gitment = new Gitment({
-owner: 'JacobPan3g',
+owner: '1450764',
 repo: 'https://github.com/JacobPan3g/JacobPan3g.github.io',
 oauth: {
 client_id: '8a1e6ff22f37f6808c22',

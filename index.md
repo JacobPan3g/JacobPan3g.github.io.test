@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <script>
 var gitment = new Gitment({
 owner: '1450764',
-repo: 'https://github.com/JacobPan3g/JacobPan3g.github.io',
+repo: 'github.com/JacobPan3g/JacobPan3g.github.io',
 oauth: {
 client_id: '8a1e6ff22f37f6808c22',
 client_secret: '377eee8fe03e02a91d8ff2a63d6420ba705470bb',
